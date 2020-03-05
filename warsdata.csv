@@ -27,8 +27,6 @@ War ID,War Name,Country,Start Year,End Year
 325,Peru-Bolivian,Peru,1841,1841.0
 326,British-Sind,United Kingdom,1843,1843.0
 327,Uruguay War,Argentina,1843,1851.0
-327,Uruguay War,-8,1845,1849.0
-327,Uruguay War,-8,1845,1849.0
 329,Gwalior,United Kingdom,1843,1843.0
 330,Franco-Moroccan,France,1844,1844.0
 331,First British-Sikh,United Kingdom,1845,1846.0
@@ -86,7 +84,6 @@ War ID,War Name,Country,Start Year,End Year
 384,First British-Mahdi,Egypt,1881,1882.0
 384,First British-Mahdi,United Kingdom,1881,1885.0
 385,Third Franco-Vietnamese,France,1882,1884.0
-385,Third Franco-Vietnamese,-8,1883,1884.0
 386,First Franco-Madagascan,France,1883,1885.0
 387,Third British-Burmese,United Kingdom,1885,1889.0
 389,French-Mandinka,France,1885,1886.0
@@ -171,7 +168,6 @@ War ID,War Name,Country,Start Year,End Year
 472,"East Timorese, Phase 2",Indonesia,1975,1976.0
 473,Namibian,South Africa,1975,1988.0
 474,Western Saharan,Morocco,1975,1983.0
-474,Western Saharan,-8,1976,1976.0
 474,Western Saharan,Mauritania,1975,1979.0
 475,Khmer Insurgency,Vietnam,1979,1989.0
 475,Khmer Insurgency,Cambodia,1979,1989.0
@@ -180,24 +176,10 @@ War ID,War Name,Country,Start Year,End Year
 477,First PKK in Iraq,Turkey,1991,1992.0
 479,Second PKK in Iraq,Turkey,1997,1997.0
 480,Al Aqsa Intifada,Israel,2000,2003.0
-481,Afghan Resistance,France,2001,-7.0
-481,Afghan Resistance,Australia,2001,-7.0
-481,Afghan Resistance,Germany,2001,-7.0
-481,Afghan Resistance,United Kingdom,2001,-7.0
-481,Afghan Resistance,Canada,2001,-7.0
-481,Afghan Resistance,United States,2001,-7.0
-481,Afghan Resistance,Afghanistan,2001,-7.0
-482,Iraqi Resistance,Australia,2003,-7.0
-482,Iraqi Resistance,United States,2003,-7.0
-482,Iraqi Resistance,United Kingdom,2003,-7.0
 482,Iraqi Resistance,Netherlands,2004,2005.0
 482,Iraqi Resistance,Spain,2004,2004.0
 482,Iraqi Resistance,Poland,2004,2006.0
-482,Iraqi Resistance,Italy,2004,-7.0
 482,Iraqi Resistance,Ukraine,2004,2005.0
-482,Iraqi Resistance,Iraq,2004,-7.0
-482,Iraqi Resistance,Republic of Korea,2004,-7.0
-300,Allied Bombardment of Algiers,-8,1816,1816.0
 300,Allied Bombardment of Algiers,Algeria,1816,1816.0
 301,Ottoman-Wahhabi,Saudi Wahhabis,1816,1818.0
 302,Liberation of Chile,San Martin revolutionaries,1817,1818.0
@@ -230,8 +212,6 @@ War ID,War Name,Country,Start Year,End Year
 329,Gwalior,Gwalior,1843,1843.0
 330,Franco-Moroccan,Morocco,1844,1844.0
 331,First British-Sikh,Sikhs,1845,1846.0
-332,Cracow Revolt,-8,1846,1846.0
-332,Cracow Revolt,-8,1846,1846.0
 332,Cracow Revolt,Cracow,1846,1846.0
 333,First British-Xhosa,Khosa,1846,1847.0
 334,First Dutch-Bali,Bali,1848,1848.0
@@ -244,7 +224,6 @@ War ID,War Name,Country,Start Year,End Year
 341,British-Santal,Santal,1855,1856.0
 342,Hodeida Seige,Beni Aseer tribe,1856,1856.0
 343,Second Opium,China,1856,1860.0
-343,Second Opium,-8,1856,1860.0
 345,French Conquest of Kabylia,Kabylia,1856,1857.0
 347,Indian Mutiny,Indian sepoys,1857,1859.0
 349,First Franco-Vietnamese,Vietnam,1858,1862.0
@@ -254,9 +233,6 @@ War ID,War Name,Country,Start Year,End Year
 353,Spanish-Santo Dominican,Santo Domingo,1863,1865.0
 355,British-Maori,New Zealand Maori,1863,1866.0
 356,Shimonoseki War,Choshu Daimyo,1863,1864.0
-356,Shimonoseki War,-8,1864,1864.0
-356,Shimonoseki War,-8,1864,1864.0
-356,Shimonoseki War,-8,1863,1864.0
 357,British Umbeyla Campaign,Pathan tribe,1863,1863.0
 359,Russian-Kokand,Kokand,1864,1865.0
 360,British-Bhutanese,Bhutan,1865,1865.0
@@ -281,7 +257,6 @@ War ID,War Name,Country,Start Year,End Year
 381,Gun War,Basuto,1880,1881.0
 382,First Boer War,Transvaal,1880,1881.0
 383,Franco-Tunisian,Tunisia,1881,1882.0
-384,First British-Mahdi,-8,1881,1882.0
 384,First British-Mahdi,Mahdist Empire,1881,1885.0
 385,Third Franco-Vietnamese,"Vietnam, Black Flag",1882,1884.0
 385,Third Franco-Vietnamese,China,1883,1884.0
@@ -316,7 +291,6 @@ War ID,War Name,Country,Start Year,End Year
 416,Second Boer War,Boer Republics,1899,1902.0
 417,Last Ashanti War,Ashanti,1900,1900.0
 419,Somali Rebellion,Mohammad Abdullah Hassan�s Dervishes,1901,1904.0
-419,Somali Rebellion,-8,1901,1904.0
 420,Bailundu Revolt,Bailundu of Angola,1902,1903.0
 421,Kuanhama Rebellion,Kuanhama of Angola,1902,1904.0
 422,British Conquest of Kano & Sokoto,Kano & Sokoto,1903,1903.0
@@ -341,10 +315,8 @@ War ID,War Name,Country,Start Year,End Year
 443,First British-Waziristan,Waziristan,1919,1920.0
 444,Franco-Syrian,Syrians,1920,1920.0
 445,Iraqi-British,Iraq,1920,1920.0
-446,Conquest of Mongolia,-8,1921,1921.0
 446,Conquest of Mongolia,Baron von Ungern-Sternberg�s White army,1920,1921.0
 447,Italian-Sanusi,Sanusi tribe,1923,1931.0
-449,Rif Rebellion,-8,1925,1926.0
 449,Rif Rebellion,Riffs,1921,1926.0
 450,Moplah Rebellion,Muslim Moplahs,1921,1922.0
 451,Franco-Druze,Druze,1925,1927.0
@@ -352,7 +324,6 @@ War ID,War Name,Country,Start Year,End Year
 453,Saya San's Rebellion,Peasant Rebels,1930,1932.0
 454,British-Palestinian,Palestinians,1936,1936.0
 455,Second British-Waziristan,Pathan tribes,1936,1938.0
-456,Indonesian,-8,1945,1946.0
 456,Indonesian,Indonesia,1945,1946.0
 457,French-Indochina,Vietminh,1946,1954.0
 459,Third Franco-Madagascan,Madagascar,1947,1948.0
@@ -370,31 +341,11 @@ War ID,War Name,Country,Start Year,End Year
 473,Namibian,SWAPO-Namibia,1975,1988.0
 474,Western Saharan,Polisario,1975,1983.0
 474,Western Saharan,Algeria,1976,1976.0
-474,Western Saharan,-8,1975,1979.0
 475,Khmer Insurgency,Khmer Rouge,1979,1989.0
-475,Khmer Insurgency,-8,1979,1989.0
 476,Soviet Quagmire,Muhajadin,1980,1989.0
-476,Soviet Quagmire,-8,1980,1989.0
 477,First PKK in Iraq,PKK in Iraq,1991,1992.0
 479,Second PKK in Iraq,PKK in Iraq,1997,1997.0
 480,Al Aqsa Intifada,Palestinians,2000,2003.0
-481,Afghan Resistance,-8,2001,-7.0
-481,Afghan Resistance,-8,2001,-7.0
-481,Afghan Resistance,-8,2001,-7.0
-481,Afghan Resistance,-8,2001,-7.0
-481,Afghan Resistance,-8,2001,-7.0
-481,Afghan Resistance,al-Qaeda & Taliban,2001,-7.0
-481,Afghan Resistance,-8,2001,-7.0
-482,Iraqi Resistance,-8,2003,-7.0
-482,Iraqi Resistance,al-Qaeda & Iraqi resistence,2003,-7.0
-482,Iraqi Resistance,-8,2003,-7.0
-482,Iraqi Resistance,-8,2004,2005.0
-482,Iraqi Resistance,-8,2004,2004.0
-482,Iraqi Resistance,-8,2004,2006.0
-482,Iraqi Resistance,-8,2004,-7.0
-482,Iraqi Resistance,-8,2004,2005.0
-482,Iraqi Resistance,-8,2004,-7.0
-482,Iraqi Resistance,-8,2004,-7.0
 1,Franco-Spanish War,Spain,1823,1823.0
 1,Franco-Spanish War,France,1823,1823.0
 4,First Russo-Turkish,Ottoman Empire,1828,1829.0
@@ -740,12 +691,8 @@ War ID,War Name,Country,Start Year,End Year
 505,Sardinian Revolt,Austria,1821,1821.0
 505,Sardinian Revolt,Sardinia,1821,1821.0
 506,Greek Independence,Ottoman Empire,1821,1828.0
-506,Greek Independence,-8,1827,1827.0
-506,Greek Independence,-8,1827,1827.0
-506,Greek Independence,-8,1827,1828.0
 507,Egypt-Mehdi,Egypt,1824,1824.0
 508,Janissari Revolt,Ottoman Empire,1826,1826.0
-510,Miguelite War,-8,1831,1834.0
 510,Miguelite War,Portugal,1828,1834.0
 511,First Murid War,Russia,1830,1832.0
 512,First Albanian Revolt,Ottoman Empire,1830,1831.0
@@ -878,21 +825,14 @@ War ID,War Name,Country,Start Year,End Year
 673,Fourth Mexican,Mexico,1914,1920.0
 675,Southern China Revolt,China,1916,1918.0
 676,Russia-Turkestan,Russia,1916,1917.0
-677,Russian Civil War,-8,1919,1919.0
-677,Russian Civil War,-8,1918,1920.0
 677,Russian Civil War,USSR,1917,1921.0
-677,Russian Civil War,-8,1918,1920.0
-677,Russian Civil War,-8,1918,1920.0
-677,Russian Civil War,-8,1918,1919.0
 680,Finnish Civil War,Germany,1918,1918.0
-680,Finnish Civil War,-8,1918,1918.0
 680,Finnish Civil War,Finland,1918,1918.0
 681,Western Ukrainian,Ukraine Poles,1918,1919.0
 682,Sparticist Rising,Socialists,1919,
 683,Hungary's Red Terror,Hungary,1919,1920.0
 685,First Chinese Warlord,Anhui army,1920,1920.0
 686,Green Rebellion,USSR,1920,1921.0
-687,Gilan Marxists,-8,1920,1921.0
 687,Gilan Marxists,Iran,1920,1921.0
 688,Italian Fascist,Blackshirts,1920,1922.0
 690,Kronstadt Rebellion,USSR,1921,1921.0
@@ -904,7 +844,6 @@ War ID,War Name,Country,Start Year,End Year
 697,First Afghan Anti-Reform,Afghanistan,1924,1925.0
 698,Third Chinese Warlord,Feng Yu-Lxiang army,1925,1926.0
 700,Chinese Northern Expedition,War Lord Gov't.,1926,1928.0
-700,Chinese Northern Expedition,-8,1927,1928.0
 701,Cristeros Revolt,Mexico,1926,1929.0
 702,Ethiopian Northern Resistance,Ethiopia,1928,1930.0
 703,Second Gansu Muslim,China,1928,1930.0
@@ -921,9 +860,6 @@ War ID,War Name,Country,Start Year,End Year
 716,Fukien Revolt,China,1934,1934.0
 717,Spanish Miners,Spain,1934,1934.0
 718,Spanish Civil War,Spain,1936,1939.0
-718,Spanish Civil War,-8,1936,1939.0
-718,Spanish Civil War,-8,1936,1939.0
-718,Spanish Civil War,-8,1936,1939.0
 720,Greek Civil War,United Kingdom,1944,1945.0
 720,Greek Civil War,Greece,1944,1945.0
 721,Polish Ukrainians,Poland,1945,1947.0
@@ -951,9 +887,7 @@ War ID,War Name,Country,Start Year,End Year
 747,Iraq-Shammar,Iraq,1959,1959.0
 748,Vietnam Phase 1,United States of America,1961,1965.0
 748,Vietnam Phase 1,"Vietnam, Republic of",1960,1965.0
-750,First DRC (Zaire),-8,1960,1960.0
 750,First DRC (Zaire),Zaire,1960,1963.0
-751,First Laotian,-8,1961,1962.0
 751,First Laotian,Laos,1960,1962.0
 752,First Iraqi Kurd,Iraq,1961,1963.0
 753,Algerian Revolutionaries,Algeria,1962,1963.0
@@ -961,8 +895,6 @@ War ID,War Name,Country,Start Year,End Year
 755,North Yemen,Yemen Arab Republic,1962,1969.0
 756,Second Laotian Phase 1,United States of America,1964,1968.0
 756,Second Laotian Phase 1,Laos,1963,1968.0
-756,Second Laotian Phase 1,-8,1963,1968.0
-757,First Ogaden,-8,1963,1964.0
 757,First Ogaden,Ethiopia,1963,1964.0
 758,First South Sudan,Sudan,1963,1972.0
 760,Second DRC (Jeunesse),Congo,1963,1965.0
@@ -985,7 +917,6 @@ War ID,War Name,Country,Start Year,End Year
 776,Cultural Revolution Phase 2,China,1967,1968.0
 777,Third Iraqi Kurds,Iraq,1969,1970.0
 778,Naxalite Rebellion,India,1970,1971.0
-780,Black September,-8,1970,1970.0
 780,Black September,Jordan,1970,1970.0
 781,Second Guatemala,Guatemala,1970,1971.0
 782,Pakistan-Bengal,Pakistan,1971,1971.0
@@ -1003,7 +934,6 @@ War ID,War Name,Country,Start Year,End Year
 795,Dhofar Rebellion Phase 2,United Kingdom,1973,1975.0
 795,Dhofar Rebellion Phase 2,Iran,1973,1975.0
 795,Dhofar Rebellion Phase 2,Oman,1973,1975.0
-797,Fourth Iraqi Kurds,-8,1974,1975.0
 797,Fourth Iraqi Kurds,Iraq,1974,1975.0
 798,Eritrean War,Cuba,1976,1978.0
 798,Eritrean War,Ethiopia,1975,1978.0
@@ -1015,17 +945,13 @@ War ID,War Name,Country,Start Year,End Year
 803,Third Laotian,Vietnam,1976,1979.0
 804,Angolan Control,Cuba,1976,1991.0
 804,Angolan Control,Angola,1976,1991.0
-804,Angolan Control,-8,1976,1989.0
 805,Second Ogaden Phase 1,Cuba,1976,1977.0
-805,Second Ogaden Phase 1,-8,1976,1977.0
 805,Second Ogaden Phase 1,Ethiopia,1976,1977.0
 806,East Timorese War Phase 3,Indonesia,1976,1979.0
 807,Third Lebanese,Lebanese Forces,1978,1978.0
-807,Third Lebanese,-8,1978,1978.0
 807,Third Lebanese,Israel,1978,1978.0
 808,Second Ogaden Phase 3,Cuba,1978,1980.0
 808,Second Ogaden Phase 3,Ethiopia,1978,1980.0
-808,Second Ogaden Phase 3,-8,1980,1980.0
 809,Third Guatemala,Guatemala,1978,1984.0
 810,Saur Revolution,Afghanistan,1978,1978.0
 811,Fourth DRC (Shaba),Belgium,1978,1978.0
@@ -1040,7 +966,6 @@ War ID,War Name,Country,Start Year,End Year
 818,Mozambique,Tanzania,1985,1992.0
 818,Mozambique,Mozambique,1979,1992.0
 818,Mozambique,Zimbabwe,1982,1992.0
-820,Second Chad (Habre Revolt),-8,1983,1984.0
 820,Second Chad (Habre Revolt),Chad,1980,1984.0
 820,Second Chad (Habre Revolt),Libya,1980,1981.0
 822,Second Uganda,Uganda,1980,1986.0
@@ -1059,7 +984,6 @@ War ID,War Name,Country,Start Year,End Year
 836,Second South Sudan,Sudan,1983,1991.0
 837,Indian Golden Temple,India,1984,1984.0
 838,First Turkish Kurds,Turkey,1984,1986.0
-840,Fifth Iraqi  Kurds,-8,1985,1988.0
 840,Fifth Iraqi  Kurds,Iraq,1985,1988.0
 842,South Yemen,Yemen People's Republic,1986,1986.0
 843,Holy Spirit Movement,Uganda,1986,1987.0
@@ -1067,13 +991,11 @@ War ID,War Name,Country,Start Year,End Year
 846,Inkatha-ANC,Inkatha,1987,1994.0
 847,Fifth Burmese,Burma,1988,1988.0
 848,First Somalia,Somalia,1988,1991.0
-850,Fifth Lebanese,-8,1989,1990.0
 850,Fifth Lebanese,Lebanon,1989,1990.0
 851,Second Afghan Mujahideen Uprising,Afghanistan,1989,2001.0
 852,Third Chad (Deby Coup),Chad,1989,1990.0
 853,First Aceh,Indonesia,1989,1991.0
 854,Bougainville Secession,Papua New Guinea,1989,1992.0
-856,Eighth Colombia,Colombia,1989,-7.0
 857,First Cambodian Civil War,Cambodia,1989,1991.0
 858,Romania,Romania,1989,1989.0
 860,First Liberia,Liberia,1989,1990.0
@@ -1093,7 +1015,6 @@ War ID,War Name,Country,Start Year,End Year
 870,Second Somalia,United States of America,1992,1994.0
 870,Second Somalia,Italy,1992,1995.0
 871,Georgia,Georgia,1991,1992.0
-872,Nagorno-Karabakh,-8,1991,1993.0
 872,Nagorno-Karabakh,Azerbaijan,1991,1993.0
 873,Dniestrian Independence,Moldova,1991,1992.0
 875,Algerian Islamic Front,Algeria,1992,1999.0
@@ -1101,7 +1022,6 @@ War ID,War Name,Country,Start Year,End Year
 876,Tajikistan,Tadzhikistan,1992,1997.0
 877,Bosnian-Serb Rebellion,Bosnia,1992,1994.0
 877,Bosnian-Serb Rebellion,United States,1995,1995.0
-877,Bosnian-Serb Rebellion,-8,1994,1994.0
 877,Bosnian-Serb Rebellion,Croatia,1992,1994.0
 878,Second Liberia,Liberia,1992,1995.0
 878,Second Liberia,Nigeria,1992,1992.0
@@ -1116,18 +1036,10 @@ War ID,War Name,Country,Start Year,End Year
 891,Croatia-Krajina War,Croatia,1995,1995.0
 892,Third Liberia,Liberia,1996,1996.0
 893,Sixth Iraqi Kurds,Iraq,1996,1996.0
-895,Fifth DRC,-8,1997,1997.0
-895,Fifth DRC,-8,1997,1997.0
-895,Fifth DRC,-8,1997,1997.0
 895,Fifth DRC,DRC,1996,1997.0
 896,Third Rwanda,Rwanda,1997,1998.0
-897,First Congo (Brazzaville),-8,1997,1997.0
 897,First Congo (Brazzaville),Congo,1997,1997.0
 898,Second Sierra Leone,Sierra Leone,1998,1999.0
-898,Second Sierra Leone,-8,1998,1999.0
-898,Second Sierra Leone,-8,1998,1999.0
-898,Second Sierra Leone,-8,1998,1999.0
-898,Second Sierra Leone,-8,2000,2000.0
 900,Kosovo Independence,Yugoslavia,1998,1999.0
 902,Guinea-Bissau Military,Guinea,1998,1998.0
 902,Guinea-Bissau Military,Guinea-Bissau,1998,1999.0
@@ -1136,9 +1048,6 @@ War ID,War Name,Country,Start Year,End Year
 905,Africa's World War,Sudan,1998,2002.0
 905,Africa's World War,Namibia,1998,2001.0
 905,Africa's World War,Zimbabwe,1998,2002.0
-905,Africa's World War,-8,1998,2002.0
-905,Africa's World War,-8,1998,2002.0
-905,Africa's World War,-8,1998,2002.0
 905,Africa's World War,Chad,1998,1999.0
 905,Africa's World War,Democratic Republic of Congo,1998,2002.0
 906,Fourth Chad (Togoimi Revolt),Chad,1998,2000.0
@@ -1171,15 +1080,11 @@ War ID,War Name,Country,Start Year,End Year
 938,Third Somalia,United States,2007,2007.0
 938,Third Somalia,Somalia,2006,2008.0
 938,Third Somalia,Ethiopia,2006,2008.0
-938,Third Somalia,-8,2006,2008.0
-940,Second Sri Lanka Tamil,Sri Lanka,2006,-7.0
 941,Second Yemeni Cleric,Yemen,2007,2007.0
 500,First Caucasus,"Georgians, Dhagestania, Chechens",1818,1822.0
 501,Sidon-Damascus,Damascus & Aleppo,1820,1821.0
-502,First Two Sicilies,-8,1821,1821.0
 502,First Two Sicilies,Liberals,1820,1821.0
 503,Spanish Royalists,Royalists,1821,1823.0
-505,Sardinian Revolt,-8,1821,1821.0
 505,Sardinian Revolt,Carbonari,1821,1821.0
 506,Greek Independence,Greeks,1821,1828.0
 506,Greek Independence,United Kingdom,1827,1827.0
@@ -1198,10 +1103,7 @@ War ID,War Name,Country,Start Year,End Year
 518,First Syrian,Egyptians & Bashir,1831,1832.0
 520,First Mexican,Liberals,1832,1832.0
 521,Egypt- Palestinian Anti-Conscription Revolt,Egypt,1834,1834.0
-522,First Carlist War,-8,1835,1836.0
 522,First Carlist War,Carlists,1834,1840.0
-522,First Carlist War,-8,1835,1839.0
-522,First Carlist War,-8,1835,1837.0
 523,Second Murid,Shamil,1834,1834.0
 525,Cabanos Revolt,Cabanos,1835,1837.0
 526,Farroupilha War,Farrapos,1835,1845.0
@@ -1213,7 +1115,6 @@ War ID,War Name,Country,Start Year,End Year
 533,"Second Syrian, Phase 1",Egypt,1839,1839.0
 535,Lebanon Insurgency,Amir Bashir & Egypt,1840,1840.0
 536,First Colombian,Progressives,1840,1842.0
-537,"Second Syrian, Phase 2",-8,1840,1840.0
 537,"Second Syrian, Phase 2",Egypt,1840,1840.0
 538,"First Argentina War, Phase 2",Unitarios,1841,1842.0
 540,Second Bosnian,Bosnians,1841,1841.0
@@ -1229,7 +1130,6 @@ War ID,War Name,Country,Start Year,End Year
 552,Second French Insurrection,Radicals,1848,1848.0
 553,"Mayan Caste War, Phase 2",Yucatan Maya,1848,1855.0
 554,Hungarian,Hungary,1848,1849.0
-554,Hungarian,-8,1849,1849.0
 555,First Chilean,Liberals,1851,1851.0
 556,First Turco-Montenegrin,Montenegro & Hercegovina,1852,1853.0
 557,First Peru,Liberals,1853,1855.0
@@ -1241,7 +1141,6 @@ War ID,War Name,Country,Start Year,End Year
 565,Second Colombian,Liberals,1860,1861.0
 566,Second Maronite-Druze,Druze,1860,1860.0
 567,"Taiping Rebellion, Phase 2",Taipings,1860,1866.0
-567,"Taiping Rebellion, Phase 2",-8,1862,1862.0
 568,Second Nien Revolt,Niens,1860,1868.0
 570,Miao Revolt Phase 2,Miaos,1860,1872.0
 571,Panthay Rebellion Phase 2,Muslims (Hui),1860,1872.0
@@ -1253,7 +1152,6 @@ War ID,War Name,Country,Start Year,End Year
 578,Bolivan Perez Rebellion,Gregorio Perez's followers,1862,1862.0
 580,Second Polish,Poles,1863,1864.0
 581,Second Argentina,Montoneros,1863,1863.0
-582,Xinjiang Muslim Revolt,-8,1871,1871.0
 582,Xinjiang Muslim Revolt,Muslims,1864,1871.0
 583,First  Cretan,Cretans,1866,1867.0
 585,Yellow Cliff Revolt,Zhang Jizhong's followers,1866,
@@ -1284,7 +1182,6 @@ War ID,War Name,Country,Start Year,End Year
 618,Zaili-Jinden Revolt,Zaili & Jindan Sects,1891,1891.0
 620,Brazil Federalists,Rio Grande do Sul,1893,1894.0
 621,Brazil Naval,Naval Royalists,1893,1894.0
-623,Tonghak Rebellion,-8,1894,1894.0
 623,Tonghak Rebellion,Tonghak Society,1894,1894.0
 625,Third Peru,Liberals,1894,1895.0
 626,Fifth Colombian,Liberals,1895,1895.0
@@ -1302,9 +1199,7 @@ War ID,War Name,Country,Start Year,End Year
 642,Second Yemen Rebellion,Imam Yahya's forces,1904,1906.0
 643,Bloody Sunday,Workers/Peasants,1905,1906.0
 645,Romanian Peasant Revolt,Peasants,1907,1907.0
-646,Overthrow of Abd el-Aziz,-8,1907,1908.0
 646,Overthrow of Abd el-Aziz,Mulai el-Hafid,1907,1908.0
-647,Iranian Constitution War,-8,1909,1909.0
 647,Iranian Constitution War,Constitutionalists,1908,1909.0
 648,Young Turks Counter-coup,Anti-government troops,1909,1909.0
 650,Second Albanian Revolt,Albania,1910,1912.0
@@ -1316,7 +1211,6 @@ War ID,War Name,Country,Start Year,End Year
 670,Ecuadorian Civil War,Esmeraldas province,1912,1914.0
 671,Second Nationalist,Republicans,1913,1913.0
 672,China Pai Ling (White Wolf),Pai-Lings,1914,1914.0
-673,Fourth Mexican,-8,1915,1917.0
 673,Fourth Mexican,Conventionists,1914,1920.0
 675,Southern China Revolt,Yunnan Rebels,1916,1918.0
 676,Russia-Turkestan,Kirghiz & Kazaks,1916,1917.0
@@ -1326,7 +1220,6 @@ War ID,War Name,Country,Start Year,End Year
 677,Russian Civil War,United Kingdom,1918,1920.0
 677,Russian Civil War,United States of America,1918,1920.0
 677,Russian Civil War,France,1918,1919.0
-680,Finnish Civil War,-8,1918,1918.0
 680,Finnish Civil War,USSR,1918,1918.0
 680,Finnish Civil War,Red Guard,1918,1918.0
 681,Western Ukrainian,Ukrainians,1918,1919.0
@@ -1355,7 +1248,6 @@ War ID,War Name,Country,Start Year,End Year
 707,Escobar Rebellion,Escobar Led Rebels,1929,1929.0
 708,Ikhwan Revolt,Ikhwan,1929,1930.0
 710,"Chinese Civil War, Phase 1",Communists,1930,1936.0
-711,Xinjiang Muslim Revolt,-8,1934,1934.0
 711,Xinjiang Muslim Revolt,Central Asian Rebels,1931,1934.0
 712,Matanza,Leftists,1932,1932.0
 713,Aprista Revolt,Aprista Rebels,1932,1932.0
@@ -1366,10 +1258,8 @@ War ID,War Name,Country,Start Year,End Year
 718,Spanish Civil War,Portugal,1936,1939.0
 718,Spanish Civil War,Germany,1936,1939.0
 718,Spanish Civil War,Italy,1936,1939.0
-720,Greek Civil War,-8,1944,1945.0
 720,Greek Civil War,Communists,1944,1945.0
 721,Polish Ukrainians,UPA,1945,1947.0
-721,Polish Ukrainians,-8,1945,1947.0
 722,Ukrainian Partisans,UPA,1945,1947.0
 723,Forest Brethren,Baltic Guerillas,1945,1951.0
 725,"Chinese Civil War, Phase 2",Communists,1946,1950.0
@@ -1386,12 +1276,10 @@ War ID,War Name,Country,Start Year,End Year
 740,Argentine Military,Military,1955,1955.0
 741,Tibetan Khamba Rebellion,Khamba Tibetans,1956,1959.0
 742,Indonesian Leftists,Leftists,1956,1962.0
-743,First Lebanese,-8,1958,1958.0
 743,First Lebanese,National Front,1958,1958.0
 745,Cuban Revolution,Castroites,1958,1959.0
 746,Second Burmese,Karens & Communists,1958,1960.0
 747,Iraq-Shammar,Shammar Tribe & Pro-WesternOfficers,1959,1959.0
-748,Vietnam Phase 1,-8,1961,1965.0
 748,Vietnam Phase 1,NLF,1960,1965.0
 750,First DRC (Zaire),Belgium,1960,1960.0
 750,First DRC (Zaire),Katanga & Leftists,1960,1963.0
@@ -1399,9 +1287,7 @@ War ID,War Name,Country,Start Year,End Year
 751,First Laotian,Pathet Lao,1960,1962.0
 752,First Iraqi Kurd,Kurds,1961,1963.0
 753,Algerian Revolutionaries,ALN,1962,1963.0
-755,North Yemen,-8,1962,1967.0
 755,North Yemen,Royalists,1962,1969.0
-756,Second Laotian Phase 1,-8,1964,1968.0
 756,Second Laotian Phase 1,Pathet Lao,1963,1968.0
 756,Second Laotian Phase 1,"Vietnam, Democratic Rep.",1963,1968.0
 757,First Ogaden,Somalia,1963,1964.0
@@ -1409,17 +1295,13 @@ War ID,War Name,Country,Start Year,End Year
 758,First South Sudan,Anya Nya,1963,1972.0
 760,Second DRC (Jeunesse),Juenesse warriors,1963,1965.0
 761,First Rwanda,Watusi,1963,1964.0
-762,Third DRC (Simba) Rebellion,-8,1964,1965.0
 762,Third DRC (Simba) Rebellion,Gbenye followers,1964,1965.0
 763,Zanzibar Arab-African,Africans,1964,1964.0
 765,Second Iraqi Kurds,Kurds,1965,1966.0
-766,Dominican Republic,-8,1965,1965.0
 766,Dominican Republic,Leftists,1965,1965.0
 767,First West Papua,"OPM, West Papua",1965,1969.0
 768,First Uganda,Buganda Tribe,1966,1966.0
-770,First Guatemala,-8,1966,1968.0
 770,First Guatemala,Leftists,1966,1968.0
-771,First Chad (FROLINAT) Rebellion,-8,1968,1971.0
 771,First Chad (FROLINAT) Rebellion,Frolinat Rebels,1966,1971.0
 772,Cultural Revolution Phase 1,Regional military,1967,1967.0
 773,Third Burmese,Karens & Communists,1967,1980.0
@@ -1432,7 +1314,6 @@ War ID,War Name,Country,Start Year,End Year
 781,Second Guatemala,Leftists,1970,1971.0
 782,Pakistan-Bengal,Bengalis,1971,1971.0
 783,First Sri Lanka-JVP,Janatha Vimukthi- JVP,1971,1971.0
-785,Khmer Rouge,-8,1971,1973.0
 785,Khmer Rouge,Khmer Rouge,1971,1975.0
 786,First Philippine-Moro,MNLF Moros,1972,1981.0
 787,Communist Insurgency,Communists,1972,1973.0
@@ -1442,49 +1323,34 @@ War ID,War Name,Country,Start Year,End Year
 791,Rhodesia,Patriotic Front,1972,1979.0
 792,Baluchi Separatists,Baluchi Rebels,1973,1977.0
 793,Chilean Coup of 1973,Pinochet led military,1973,1973.0
-795,Dhofar Rebellion Phase 2,-8,1973,1975.0
-795,Dhofar Rebellion Phase 2,-8,1973,1975.0
 795,Dhofar Rebellion Phase 2,PFLOAG,1973,1975.0
 797,Fourth Iraqi Kurds,Iran,1974,1975.0
 797,Fourth Iraqi Kurds,Kurds,1974,1975.0
-798,Eritrean War,-8,1976,1978.0
 798,Eritrean War,Eritrean Peo. Lib.,1975,1978.0
 800,Argentine Leftists,"Montoneros, ERP",1975,1977.0
 801,Second Lebanese,Lebanese National Movement,1975,1976.0
-801,Second Lebanese,-8,1976,1976.0
 802,Second West Papua,"OPR, West Papua",1976,1978.0
 803,Third Laotian,Hmong,1976,1979.0
-803,Third Laotian,-8,1976,1979.0
-804,Angolan Control,-8,1976,1991.0
 804,Angolan Control,UNITA,1976,1991.0
 804,Angolan Control,South Africa,1976,1989.0
-805,Second Ogaden Phase 1,-8,1976,1977.0
 805,Second Ogaden Phase 1,Somalia,1976,1977.0
 805,Second Ogaden Phase 1,WSLF,1976,1977.0
 806,East Timorese War Phase 3,Fretilin,1976,1979.0
 807,Third Lebanese,PLO & Shiite militia,1978,1978.0
 807,Third Lebanese,Syria,1978,1978.0
-807,Third Lebanese,-8,1978,1978.0
-808,Second Ogaden Phase 3,-8,1978,1980.0
 808,Second Ogaden Phase 3,"Ogaden, WSLF",1978,1980.0
 808,Second Ogaden Phase 3,Somalia,1980,1980.0
 809,Third Guatemala,The Democratic Front Against Repression (FDCR),1978,1984.0
 810,Saur Revolution,Leftist Military,1978,1978.0
-811,Fourth DRC (Shaba),-8,1978,1978.0
-811,Fourth DRC (Shaba),-8,1978,1978.0
 811,Fourth DRC (Shaba),FNLC,1978,1978.0
-812,First Afghan Mujahideen Uprising,-8,1979,1980.0
 812,First Afghan Mujahideen Uprising,Mujahideen,1978,1980.0
 813,Overthrow of the Shah,Anti-Shah Coalition,1978,1979.0
 815,Sandinista Rebellion,Sandinistas,1978,1979.0
 816,Anti-Khomeini Coalition,Anti-Khmoneini Coalition: Fedayeen Kalq & Kurds,1979,1984.0
 817,El Salvador,Salvadorean Democratic Front,1979,1992.0
-818,Mozambique,-8,1985,1992.0
 818,Mozambique,Renamo,1979,1992.0
-818,Mozambique,-8,1982,1992.0
 820,Second Chad (Habre Revolt),France,1983,1984.0
 820,Second Chad (Habre Revolt),FAN,1980,1984.0
-820,Second Chad (Habre Revolt),-8,1980,1981.0
 822,Second Uganda,National Resistance Army,1980,1986.0
 823,Nigeria-Muslim,Muslim fundamentalists,1980,1981.0
 825,Hama,Muslim Brotherhood,1981,1982.0
@@ -1493,10 +1359,7 @@ War ID,War Name,Country,Start Year,End Year
 828,Contra War,Contras,1982,1990.0
 831,Matabeleland,ZAPU,1983,1987.0
 832,Fourth Burmese,Karen & Kachin Rebels,1983,1988.0
-833,Fourth Lebanese Civil,-8,1983,1984.0
-833,Fourth Lebanese Civil,-8,1983,1984.0
 833,Fourth Lebanese Civil,Shi'ites & Druze,1983,1984.0
-835,First Sri Lanka Tamil,-8,1987,1990.0
 835,First Sri Lanka Tamil,Tamils,1983,2002.0
 836,Second South Sudan,SPLA-Garang faction,1983,1991.0
 837,Indian Golden Temple,Sikhs,1984,1984.0
@@ -1515,11 +1378,9 @@ War ID,War Name,Country,Start Year,End Year
 852,Third Chad (Deby Coup),Deby's MPS,1989,1990.0
 853,First Aceh,GAM,1989,1991.0
 854,Bougainville Secession,BRA,1989,1992.0
-856,Eighth Colombia,FARC & Drug Lords,1989,-7.0
 857,First Cambodian Civil War,Khmer Rouge & KPNFL,1989,1991.0
 858,Romania,Anti-Ceaucescu Rebels,1989,1989.0
 860,First Liberia,NPFL,1989,1990.0
-860,First Liberia,-8,1990,1990.0
 861,Kashmir Insurgents,Kashmiri Guerillas,1990,2005.0
 862,Shiite and Kurdish,Shiites & Kurds,1991,1991.0
 863,First Sierra Leone,RUF,1991,1996.0
@@ -1527,26 +1388,16 @@ War ID,War Name,Country,Start Year,End Year
 865,Second Turkish Kurds,"Kurds, PKK",1991,1999.0
 866,The SPLA Division (Dinka-Nuer) War,Nuer faction,1991,1992.0
 868,Jukun-Tiv War,Tiv,1991,1992.0
-870,Second Somalia,-8,1992,1995.0
 870,Second Somalia,Aideed Faction,1991,1997.0
-870,Second Somalia,-8,1992,1995.0
-870,Second Somalia,-8,1992,1995.0
-870,Second Somalia,-8,1992,1995.0
-870,Second Somalia,-8,1992,1994.0
-870,Second Somalia,-8,1992,1995.0
 871,Georgia,Reform,1991,1992.0
 872,Nagorno-Karabakh,Armenia,1991,1993.0
 872,Nagorno-Karabakh,Nagorno-Karabakh,1991,1993.0
 873,Dniestrian Independence,Dniestria,1991,1992.0
 875,Algerian Islamic Front,Islamic Front,1992,1999.0
-876,Tajikistan,-8,1993,1997.0
 876,Tajikistan,United Tajik Opposition,1992,1997.0
 877,Bosnian-Serb Rebellion,Bosnian Serbs,1992,1994.0
-877,Bosnian-Serb Rebellion,-8,1995,1995.0
 877,Bosnian-Serb Rebellion,Croatia,1994,1994.0
-877,Bosnian-Serb Rebellion,-8,1992,1994.0
 878,Second Liberia,NPFL & ULIMO,1992,1995.0
-878,Second Liberia,-8,1992,1992.0
 880,Angolan War of the Cities,UNITA,1992,1994.0
 881,Second Cambodia Civil,Khmer Rouge,1993,1997.0
 882,Abkhazia Revolt,Abkhazia,1993,1994.0
@@ -1571,17 +1422,10 @@ War ID,War Name,Country,Start Year,End Year
 898,Second Sierra Leone,Guinea,1998,1999.0
 898,Second Sierra Leone,United Kingdom,2000,2000.0
 900,Kosovo Independence,KLA,1998,1999.0
-902,Guinea-Bissau Military,-8,1998,1998.0
 902,Guinea-Bissau Military,Man� Junta,1998,1999.0
-902,Guinea-Bissau Military,-8,1998,1998.0
-905,Africa's World War,-8,1998,2002.0
-905,Africa's World War,-8,1998,2002.0
-905,Africa's World War,-8,1998,2001.0
-905,Africa's World War,-8,1998,2002.0
 905,Africa's World War,Rwanda,1998,2002.0
 905,Africa's World War,Burundi,1998,2002.0
 905,Africa's World War,Uganda,1998,2002.0
-905,Africa's World War,-8,1998,1999.0
 905,Africa's World War,"RCD, MLC, et al",1998,2002.0
 906,Fourth Chad (Togoimi Revolt),MDD & MDJT,1998,2000.0
 907,Third Angolan,UNITA,1998,2002.0
@@ -1598,21 +1442,16 @@ War ID,War Name,Country,Start Year,End Year
 921,First Nepal Maoist Insurgency,CPN,2001,2003.0
 922,Fourth Liberian,LURD & MODEL,2002,2003.0
 923,Ethiopian Anyuaa-Nuer,Nuer,2002,2003.0
-925,Cote d'Ivoire Military,-8,2002,2004.0
 925,Cote d'Ivoire Military,"MPCI, MPIGO, MJP",2002,2004.0
 926,Third Philippine-Moro,MILF & ASG,2003,2003.0
 927,Darfur,SLA & JEM,2003,2006.0
 930,Third Aceh,GAM,2003,2003.0
 931,Second Nepal Maoists,CPN,2003,2006.0
-932,Waziristan,-8,2004,2006.0
 932,Waziristan,Waziri tribes,2004,2006.0
 933,Second Nigeria Christian-Muslim,Muslim Fulani,2004,2004.0
 935,First Yemeni Cleric,Zaidi Muslims,2004,2005.0
 936,Philippine Joint Offensive,MILF & NPA,2005,2006.0
 937,Fifth Chad,FUDC,2005,2006.0
-938,Third Somalia,-8,2007,2007.0
 938,Third Somalia,SCIC,2006,2008.0
-938,Third Somalia,-8,2006,2008.0
 938,Third Somalia,Eritrea,2006,2008.0
-940,Second Sri Lanka Tamil,LTTE,2006,-7.0
 941,Second Yemeni Cleric,Zaidi Muslims,2007,2007.0
